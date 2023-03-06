@@ -49,4 +49,32 @@ Soft skills:
 ## **Code Example:**
 
 
+```
+function checkElseIf(num){
+    if (num > 20){
+        return "Greater than 20";
+    } else if (num < 10){
+        return "Smaller than 10";
+    } else {
+        return "Between 10 and 20
+    }
+}
+```
+
+--------
+
+## **Education/Cources:**
+
+* Admiral Ushakov Maritime State University - Electro-Technical Engineer - 2009-2015 / Novorossiysk
+* JavaScript - Full Cource - Udemy - 2022 / online
+* HTML5, CSS3 - freeCodeCamp / online
+* JavaScript - freeCodeCamp - in progress
+
+--------
+
+## **Languages:**
+
+* Russian - Native
+* Ukrainian - Native
+* English - Upper Intermediate
 
